@@ -171,6 +171,7 @@ static const SupportedDevice supportedDevices[] = {
     { VENDOR_JENNIC, "lumi.sensor_wleak", jennicMacPrefix },
     { VENDOR_JENNIC, "lumi.sensor_smoke", jennicMacPrefix },
     { VENDOR_JENNIC, "lumi.relay.c", jennicMacPrefix }, // Xiaomi Aqara LLKZMK11LM
+    { VENDOR_XIAMOMI_COMMUNI, "lumi.sen_ill.mgl01", xiaomiMacPrefix }, // Xiaomi Mijia GZCGQ01LM light sensor
     { VENDOR_115F, "lumi.plug", jennicMacPrefix }, // Xiaomi smart plug (router)
     { VENDOR_115F, "lumi.ctrl_ln", jennicMacPrefix}, // Xiaomi Wall Switch (router)
     { VENDOR_115F, "lumi.plug.maeu01", xiaomiMacPrefix}, // Xiaomi Aqara outlet
